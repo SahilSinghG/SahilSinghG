@@ -1,1 +1,3 @@
-![Data Scientist Banner](Gemini_Generated_Image_z4bd5lz4bd5lz4bd.png)
+<p align="center">
+  <img src="banner.png" alt="Sahil Guleria Data Scientist" width="70%">
+</p>
