@@ -1,8 +1,6 @@
 ![MasterHead](Gemini_Generated_Image_z4bd5lz4bd5lz4bd.png)
 <h1 align="center">Hi 👋, I'm Sahil Guleria</h1>
-<h3 align="center">a Data Scientist with a passion for turning chaotic data into elegant, executable stories. I’m the kind of person who enjoys building complex systems, breaking them (to find the limits), and re-engineering them to be better than before.
-
-Whether I’m optimizing an XGBoost model for a quant pipeline or untangling a messy data lake, I thrive on the 'Aha!' moment. When the screen goes dark, you’ll find me exploring the latest in XAI, lost in a technical deep-dive, or debugging life one cup of coffee at a time. Always learning, always questioning, and always building for the real world. Welcome to my GitHub!"</h3>
+<h3 align="center">A Data Scientist with a passion for turning chaotic data into elegant, executable stories. I’m the kind of person who enjoys building complex systems, breaking them (to find the limits), and re-engineering them to be better than before. Whether I’m optimizing an XGBoost model for a quant pipeline or untangling a messy data lake, I thrive on the 'Aha!' moment. When the screen goes dark, you’ll find me exploring the latest in XAI, lost in a technical deep-dive, or debugging life one cup of coffee at a time. Always learning, always questioning, and always building for the real world. Welcome to my GitHub!"</h3>
 <img align="right" alt="Coding" width="400" src="https://imarticus.org/blog/wp-content/uploads/2020/09/rt.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pysolanki&label=Profile%20views&color=0e75b6&style=flat" alt="pysolanki" /> </p>
