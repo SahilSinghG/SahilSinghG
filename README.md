@@ -1,3 +1,3 @@
 <p align="center">
-  <img src="banner.png" alt="Sahil Guleria Data Scientist" width="70%">
+  <img src="Gemini_Generated_Image_z4bd5lz4bd5lz4bd.png" alt="Sahil Guleria Data Scientist" width="70%">
 </p>
